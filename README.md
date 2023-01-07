@@ -31,4 +31,5 @@ The body for <b>/auth/login</b> accepts the following keys-
 <br> Used MongoDB Atlas for database connection
 <br>
 <br>
-Note: I have also put .env file on github as right now it doesn't contain any sensitive info
+Note: I have also put .env file on github as right now it doesn't contain any sensitive info 
+<br> <i>used Node version 18.13.0 </i>
